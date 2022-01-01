@@ -1,4 +1,4 @@
-# Nethunter 
+# Nethunter installation 
 
 * $ `termux-setup-storage`
 
@@ -9,9 +9,11 @@
 * $ `wget -O kali-install https://cutt.ly/nethunter-install-termux`
 
 * $ `chmod +x kali-install`
+
 # Run:
 * $ `./kali-install`
 
+# password Set :
 * $`nehunter kex passwd`
-
+# nethunter run :
 * $ `nethunter kex &`
