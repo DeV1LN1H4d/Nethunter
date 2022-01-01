@@ -6,10 +6,10 @@
 
 * $ `pkg install wget`
 
-* $ `wget -O kali-install https://bit.ly/kali-os`
+* $ `wget -O kali-install https://cutt.ly/nethunter-install-termux`
 
 * $ `chmod +x kali-install`
-
+# Run:
 * $ `./kali-install`
 
 * $`nehunter kex passwd`
